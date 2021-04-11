@@ -1,0 +1,5 @@
+city|price|distance
+Delhi|7.3|34
+Lima|6.0|30
+Istanbul|3.0|16
+Riyadh|7.0|33
